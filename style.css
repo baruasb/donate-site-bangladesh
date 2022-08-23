@@ -121,15 +121,31 @@ hr{
     display: flex;
 }
 .half-width{
-    width: 50%;
+    width: 20%;
     padding-left: 2%;
 }
 .shadow{
     box-shadow: 10px 10px 40px gray;
-    width: 40%;
+    width: 20%;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 20px ;
-    border-left: 7px solid tomato;
+   
+}
 
+.icon{
+    margin-top: 15px;
+    width: 50px;
+
+}
+#food-family{
+    background-color: rgb(249, 211, 224);
+}
+
+#shelter-family{
+    background-color: rgb(241, 136, 117);
+}
+
+#education-family{
+    background-color: rgb(249, 221, 170);
 }
