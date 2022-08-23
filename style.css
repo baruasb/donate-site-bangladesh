@@ -1,0 +1,135 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+.top-banner{
+    background-image: url(donate-today-main/images/donation13.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10rem 0;
+ 
+}
+
+.children{
+    text-align: center;
+    width: 100%;
+    color: white;
+    
+}
+.children p{
+    width: 50%;
+    padding-left: 25%;
+}
+
+.children h1{
+
+     font-size: 35px;
+
+}
+.button-link{
+    color: white;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+.mid-top{
+    text-align: center;
+    width: 50%;
+    margin-left: 26%;
+    
+}
+
+
+.donate-money{
+    text-align: center;
+}
+
+div h1{
+    text-align: center;
+}
+
+.flexible-container .box{
+    display: flex;
+   justify-content: center;
+  
+}
+.box h2{
+    background-color: rgb(255, 232, 232);
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.money .best-donate h1{
+    background-color: azure;
+    border: 3px solid 3px;
+}
+
+
+.money{
+    padding-left: 40px;
+}
+h5{
+    text-align: center;
+    font-size: 10px;
+    color: rgb(163, 163, 163);
+}
+
+hr{
+    width: 50%;
+    color: light grey;
+}
+.donate-money-button{
+    text-align: center;
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+.donate-plan{
+    margin-top: 97px;
+}
+
+.donate-plan h1{
+
+    font-size: 45px;
+
+}
+.donate-plan p{
+    margin-left: 17%;
+    width: 78%
+}
+.donate-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.shadow{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px ;
+    border-left: 7px solid tomato;
+
+}
