@@ -175,3 +175,19 @@ hr{
 #subscribe-button{
     padding: 1px 30px;
 }
+
+
+.footer-section{
+    background-color: rgb(1, 1, 14);
+    text-align: center;
+    color: white;
+    margin-top: 120px;
+}
+.footer-text-color{
+    color: tomato;
+    padding: 20px;
+    margin-top: 20px;
+}
+footer{
+    font-size: 10px;
+}
