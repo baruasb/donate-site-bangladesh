@@ -4,6 +4,8 @@ body{
 
 }
 
+
+
 .top-banner{
     background-image: url(donate-today-main/images/donation13.jpg);
     background-attachment: fixed;
@@ -175,6 +177,7 @@ hr{
 #subscribe-button{
     padding: 1px 30px;
 }
+
 
 
 .footer-section{
