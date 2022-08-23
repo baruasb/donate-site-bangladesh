@@ -121,12 +121,12 @@ hr{
     display: flex;
 }
 .half-width{
-    width: 20%;
+    width: 30%;
     padding-left: 2%;
 }
 .shadow{
     box-shadow: 10px 10px 40px gray;
-    width: 20%;
+    width: 95%;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 20px ;
@@ -148,4 +148,18 @@ hr{
 
 #education-family{
     background-color: rgb(249, 221, 170);
+}
+
+
+
+
+.partner-section{
+    text-align: center
+}
+.partner-section h1{
+    font-size: 60px;
+}
+
+.partner-icon{
+    margin-top: 90px;
 }
